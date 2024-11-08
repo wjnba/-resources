@@ -27,10 +27,10 @@ about: 请根据指示规范填写友链格式。
 <!-- 示例 -->
 
 <!--
-"title": "Akilarの糖果屋",
-"screenshot": "https://cdn.jsdelivr.net/gh/Akilarlxh/ScreenShot@gh-pages/akilar.top.jpg",
-"url": "https://akilar.top/",
-"avatar": "/img/siteicon/favicon.png",
-"description": "期待您的光临！",
-"keywords": "糖果屋"
+"title": "wjnba的博客",
+"screenshot": "https://pic.wjnba.top/img/202308311716741.png",
+"url": "https://www.wjnba.top/",
+"avatar": "https://q1.qlogo.cn/g?b=qq&nk=1746040223&s=100",
+"description": "君子以坦荡立于世间，必将步步生花，一路繁华",
+"keywords": "友情链接"
 -->
