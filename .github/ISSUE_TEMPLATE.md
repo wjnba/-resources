@@ -32,5 +32,5 @@ about: 请根据指示规范填写友链格式。
 "url": "https://www.wjnba.top/",
 "avatar": "https://q1.qlogo.cn/g?b=qq&nk=1746040223&s=100",
 "description": "君子以坦荡立于世间，必将步步生花，一路繁华",
-"keywords": "糖果屋"
+"keywords": "友情链接"
 -->
